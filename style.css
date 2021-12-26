@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: orange;
+}
+h1{
+    color: black;
+    font-style: normal;
+    text-shadow: 1px 1px 1px brown;
+}
+h2{
+    color: black;
+    font-style: normal;
+    text-shadow: 1px 1px 1px brown;
+}
+img{
+  align : center;
+  border-radius: 30px;
+  width: 600px;
+  height: 600px;
+}
